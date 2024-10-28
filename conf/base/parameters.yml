@@ -1,0 +1,56 @@
+# conf/base/parameters.yml
+
+bsa_results_number: 1
+
+bsa_topics:
+  - halving
+  - bitcoin
+
+bsa_journals:
+  - coingecko.com
+  - cointelegraph.com
+  - beincrypto.com
+  - cryptonews.net
+  - techreport.com
+  - cryptopanic.com
+  - coindesk.com
+  - cryptoslate.com
+  - decrypt.co
+  - theblock.co
+  - newsbtc.com
+  - cryptocompare.com
+  - cryptobriefing.com
+  - coinmarketcap.com
+  - thedefiant.io
+  - ethereum.org
+  - blockchain.com
+  - beincrypto.com
+  - u.today
+  - bitcoinmagazine.com
+  - bitcoinist.com
+  - nulltx.com
+  - zycrypto.com
+  - dailyhodl.com
+  - bravenewcoin.com
+  - coinpedia.org
+  - btc-echo.de
+  - bitsday.com
+  - insidebitcoins.com
+  - ccn.com
+  - smartoptions.io
+  - kryptomoney.com
+  - investorbites.com
+  - coinfeeds.io
+  - cryptomufasa.com
+
+clearpill_results_number: 1
+
+clearpill_topics:
+  - opinion
+  - politcs
+  - economy
+
+clearpill_journals:
+  - theguardian.com
+  - times.com
+  - forbes.com

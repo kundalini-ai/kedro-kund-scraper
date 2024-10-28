@@ -1,0 +1,29 @@
+clearpill_fetched_articles:
+  type: json.JSONDataset
+  filepath: data/clearpill/fetched_articles.json
+  versioned: True
+
+clearpill_articles_content:
+  type: json.JSONDataset
+  filepath: data/clearpill/articles_content.json
+  versioned: True
+
+clearpill_finetuning_data:
+  type: json.JSONDataset
+  filepath: data/clearpill/finetuning_data.json
+  versioned: True
+
+bsa_fetched_articles:
+  type: json.JSONDataset
+  filepath: data/bsa/fetched_articles.json
+  versioned: True
+
+bsa_articles_content:
+  type: json.JSONDataset
+  filepath: data/bsa/articles_content.json
+  versioned: True
+
+bsa_finetuning_data:
+  type: json.JSONDataset
+  filepath: data/bsa/finetuning_data.json
+  versioned: True
